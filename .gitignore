@@ -1,7 +1,8 @@
 __pycache__
 rel18/
 *.csv
-*.txt
+train.txt
+test.txt
 *.rar
 hf_cache
 rag/
