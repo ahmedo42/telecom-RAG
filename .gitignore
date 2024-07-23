@@ -1,0 +1,8 @@
+__pycache__
+rel18/
+*.csv
+*.txt
+*.rar
+hf_cache
+rag/
+*.ipynb
